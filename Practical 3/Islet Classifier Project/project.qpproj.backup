@@ -1,0 +1,87 @@
+{
+  "version": "0.5.1",
+  "createTimestamp": 1749209603590,
+  "modifyTimestamp": 1749209603590,
+  "uri": "file:/C:/Users/jcc234/OneDrive%20-%20University%20of%20Exeter/Documents/Workshops/Summer%202025/QuPath%20Scripting/Practical%203/Islet%20Classifier%20Project/project.qpproj",
+  "lastID": 1,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:///C:/Users/jcc234/OneDrive%20-%20University%20of%20Exeter/Documents/Workshops/Summer%202025/QuPath%20Scripting/Practical%203/Pancreas%20demo%20img%20mini.ome.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Pancreas demo img mini.ome.tif",
+          "width": 11402,
+          "height": 6831,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 11402,
+              "height": 6831
+            },
+            {
+              "downsample": 5.0,
+              "width": 2280,
+              "height": 1366
+            },
+            {
+              "downsample": 25.0,
+              "width": 456,
+              "height": 273
+            }
+          ],
+          "channels": [
+            {
+              "name": "DAPI",
+              "color": -16776961
+            },
+            {
+              "name": "520",
+              "color": -16711936
+            },
+            {
+              "name": "570",
+              "color": -256
+            },
+            {
+              "name": "AF",
+              "color": -16777216
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.24999491876223942,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.24999491876223942,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 256,
+          "preferredTileHeight": 256
+        }
+      },
+      "entryID": 1,
+      "randomizedName": "d30cd153-9bc7-48b5-a1c2-da95980c2693",
+      "imageName": "Pancreas demo img mini.ome.tif",
+      "metadata": {}
+    }
+  ]
+}
