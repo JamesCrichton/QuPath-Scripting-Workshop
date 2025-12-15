@@ -1,0 +1,20 @@
+{
+  "pathClasses": [
+    {
+      "name": "Ignore*",
+      "color": -4934476
+    },
+    {
+      "name": "Tissue",
+      "color": -11325665
+    },
+    {
+      "name": "Islet",
+      "color": -65281
+    },
+    {
+      "name": "Nerve",
+      "color": -2668215
+    }
+  ]
+}
